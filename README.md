@@ -1,4 +1,4 @@
-# Tax Calculator (1099-B Parser)
+# Sales Proceeds Calculator (1099-B Parser)
 
 This is a Python script designed to parse IRS Form 1099-B PDF documents (specifically from Morgan Stanley at Work/Shareworks) and extract the total proceeds, cost basis, and wash sale amounts for short-term and long-term tax categories. It distinguishes between **Covered** and **Noncovered** securities.
 
